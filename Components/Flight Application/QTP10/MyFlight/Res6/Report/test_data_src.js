@@ -1,1 +1,0 @@
-﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'Y:\\Octane\\UFT sample tests\\MyFlight\\Res6',namePairs:[]}]};
