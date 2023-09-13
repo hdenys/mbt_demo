@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'D:\\BptTests\\111\\mbt_demo\\Components\\MessageBox\\Res1',namePairs:[]}]};
